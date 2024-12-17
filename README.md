@@ -167,7 +167,3 @@ your-repo-name/
 - Add support for other document formats (e.g., DOCX, TXT).
 - Integrate cloud-based vector databases.
 - Expand to use other LLM providers.
-
----
-
-Let me know if you’d like more tweaks or additions! 🚀
